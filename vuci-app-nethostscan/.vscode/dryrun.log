@@ -1,0 +1,12 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/studentas/Script/vuci-app-secondtask'
+make: Leaving directory '/home/studentas/Script/vuci-app-secondtask'
+ 
+Makefile:6: ../../vuci-app.mk: No such file or directory
+make: *** No rule to make target '../../vuci-app.mk'.
+Makefile:2: /rules.mk: No such file or directory
+make: *** No rule to make target '/rules.mk'.
+make: Failed to remake makefile '../../vuci-app.mk'.
+make: Failed to remake makefile '/rules.mk'.
+make: *** No targets.  Stop.
+

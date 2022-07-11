@@ -1,0 +1,13 @@
+
+
+{
+	"tasks": {
+		"title": "Tasks",
+		"index": 90
+	},
+	"tasks/net_host_scan": {
+		"title": "Net Host Scan",
+		"view": "vuci-app-nethostscan",
+		"index": 10
+	}
+}
